@@ -3,6 +3,12 @@
 a [Sails v1](https://sailsjs.com) application
 
 
+### Getting Started
+
+npm install
+
+npm run start
+
 ### Links
 
 + [Sails framework documentation](https://sailsjs.com/get-started)
